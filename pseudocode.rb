@@ -1,3 +1,4 @@
+#Eddie Rose 20170502
 #1. How will you know when the problem is solved? (Identify the big-picture goal)
 #  the customer service representative will be able to accept & respond to user input and the program will be able to end
 #2. How do you want to use the software? (Identity the "interface")
